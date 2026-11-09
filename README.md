@@ -45,6 +45,5 @@ Conecta tu dispositivo Android por USB (con la depuración USB habilitada) o ini
 ```
 
 ## Autora
-- **Alessandra de los Santos Beltrán**
-- **Universidad Politécnica de Chiapas**
-- **Proyecto Integrador de la Unidad 3**
+
+Alessandra de los Santos Beltrán
